@@ -1,0 +1,10 @@
+diff --git a/README.md b/README.md
+index 7b5863b..c3cb710 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,4 @@
+ # hello-world
+-Just other repository
++Hi Humans！
++Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
++I've had tacos on the moon and find them far superior to Earth tacos.
