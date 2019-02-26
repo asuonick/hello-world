@@ -1,3 +1,8 @@
 Hi
 nice to meet u! I am nick from sichuan province of china.
+<<<<<<< HEAD
 the local changing of my-branch!
+=======
+the local branch changing!
+hahahhahahaha
+>>>>>>> my-branch
